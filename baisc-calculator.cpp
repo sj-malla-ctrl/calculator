@@ -1,4 +1,4 @@
-// a basic calculator;
+// a basic calculator BY SJ;
 #include<iostream>
 using namespace std;
 int main()
@@ -34,7 +34,7 @@ int main()
         defult:
         cout<<"given operands is giving error";
         break;
-        
+
 
      }
 }
